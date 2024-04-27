@@ -1,0 +1,10 @@
+div {
+    width: 250px;
+    height: 250px;
+    border: 5px solid;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    display: flex;
+}
