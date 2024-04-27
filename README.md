@@ -1,6 +1,6 @@
-```markdown
-!(https://preview.redd.it/but-how-do-i-actually-center-a-div-v0-4w233qnofbv81.png?auto=webp&s=81515e7100b0d43989563368e5b05d01963f065e)
-```
+
+![Uploading 1_rf4QAy4yYPdfuLsZ7NrHZA.jpg…]()
+
 
 # How to Center a Div: A Survival Guide
 
